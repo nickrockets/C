@@ -1,6 +1,7 @@
+//Program to find the amount in a month
 #include <stdio.h>
 
-int main(void)
+int main()
 {   int day = 1;
     float amount = .01;
 
